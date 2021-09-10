@@ -1,1 +1,3 @@
-# money-expenditure-system
+# trax
+
+A new Flutter application.
